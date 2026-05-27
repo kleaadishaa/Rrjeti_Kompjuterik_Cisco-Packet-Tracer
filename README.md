@@ -20,3 +20,6 @@ Projektimi përfshin:
 •	Implementimin e politikave bazë të sigurisë (ACL, izolim Guest network)
 •	Konfigurimin e shërbimeve si DHCP, DNS ,WEB,NAS.
 •	Testimin e komunikimit ndërmjet departamenteve sipas politikave të autorizuara
+
+
+<img width="526" height="546" alt="image" src="https://github.com/user-attachments/assets/2125d857-c397-4697-ad80-cad54f1a5f46" />
